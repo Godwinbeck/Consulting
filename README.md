@@ -17,10 +17,6 @@ This repository contains a comprehensive analysis and project work related to BC
 4. **Task 4 Analysis**
    - Detailed evaluation of a new handset leasing plan, with insights derived from consumer preferences and market analysis. Includes a comparison between existing and proposed plans, customer preference analysis, and recommendations for target segments and product improvements.
 
-## Usage
-This repository is intended for educational purposes, offering insights into strategy consulting techniques and methodologies. It can be used by students, professionals, and consultants looking to enhance their understanding of strategic planning, business model innovation, and customer-centric product development.
 
-## How to Contribute
-If you would like to contribute to this repository, feel free to fork the project, create a branch, and submit a pull request. Contributions that add value to the analysis, such as new case studies or updated strategic frameworks, are welcome.
 
 
