@@ -23,5 +23,4 @@ This repository is intended for educational purposes, offering insights into str
 ## How to Contribute
 If you would like to contribute to this repository, feel free to fork the project, create a branch, and submit a pull request. Contributions that add value to the analysis, such as new case studies or updated strategic frameworks, are welcome.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
